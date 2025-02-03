@@ -50,4 +50,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/HimanshuS04/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HimanshuS04/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Greedy
+|  |
+| ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HimanshuS04/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Sorting
+|  |
+| ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HimanshuS04/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 <!---LeetCode Topics End-->
