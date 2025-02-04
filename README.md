@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/HimanshuS04/Leetcode/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/HimanshuS04/Leetcode/tree/master/0070-climbing-stairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HimanshuS04/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/HimanshuS04/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/HimanshuS04/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
