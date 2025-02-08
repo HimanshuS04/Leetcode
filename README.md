@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/HimanshuS04/Leetcode/tree/master/0029-divide-two-integers) |
+| [0338-counting-bits](https://github.com/HimanshuS04/Leetcode/tree/master/0338-counting-bits) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/HimanshuS04/Leetcode/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/HimanshuS04/Leetcode/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
