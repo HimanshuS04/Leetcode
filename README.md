@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HimanshuS04/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1894-merge-strings-alternately](https://github.com/HimanshuS04/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [3447-clear-digits](https://github.com/HimanshuS04/Leetcode/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/HimanshuS04/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HimanshuS04/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1894-merge-strings-alternately](https://github.com/HimanshuS04/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
