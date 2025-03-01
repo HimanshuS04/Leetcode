@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/HimanshuS04/Leetcode/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HimanshuS04/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/HimanshuS04/Leetcode/tree/master/0414-third-maximum-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HimanshuS04/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/HimanshuS04/Leetcode/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HimanshuS04/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/HimanshuS04/Leetcode/tree/master/0414-third-maximum-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HimanshuS04/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -84,12 +86,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HimanshuS04/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/HimanshuS04/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/HimanshuS04/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HimanshuS04/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HimanshuS04/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/HimanshuS04/Leetcode/tree/master/0049-group-anagrams) |
 | [1894-merge-strings-alternately](https://github.com/HimanshuS04/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [3447-clear-digits](https://github.com/HimanshuS04/Leetcode/tree/master/3447-clear-digits) |
 ## Sliding Window
