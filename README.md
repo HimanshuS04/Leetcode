@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/HimanshuS04/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/HimanshuS04/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [3447-clear-digits](https://github.com/HimanshuS04/Leetcode/tree/master/3447-clear-digits) |
 ## Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HimanshuS04/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HimanshuS04/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/HimanshuS04/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/HimanshuS04/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HimanshuS04/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HimanshuS04/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/HimanshuS04/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/HimanshuS04/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Math
 |  |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HimanshuS04/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/HimanshuS04/Leetcode/tree/master/0049-group-anagrams) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/HimanshuS04/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [1894-merge-strings-alternately](https://github.com/HimanshuS04/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [3447-clear-digits](https://github.com/HimanshuS04/Leetcode/tree/master/3447-clear-digits) |
 ## Sliding Window
