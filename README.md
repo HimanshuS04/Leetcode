@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/HimanshuS04/Leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/HimanshuS04/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/HimanshuS04/Leetcode/tree/master/0049-group-anagrams) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HimanshuS04/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/HimanshuS04/Leetcode/tree/master/0414-third-maximum-number) |
@@ -124,4 +125,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/HimanshuS04/Leetcode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/HimanshuS04/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
