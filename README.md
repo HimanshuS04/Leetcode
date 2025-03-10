@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/HimanshuS04/Leetcode/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/HimanshuS04/Leetcode/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/HimanshuS04/Leetcode/tree/master/0258-add-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/HimanshuS04/Leetcode/tree/master/0258-add-digits) |
 | [3447-clear-digits](https://github.com/HimanshuS04/Leetcode/tree/master/3447-clear-digits) |
 ## Two Pointers
 |  |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/HimanshuS04/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/HimanshuS04/Leetcode/tree/master/0046-permutations) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/HimanshuS04/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
