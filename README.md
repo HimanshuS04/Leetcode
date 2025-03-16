@@ -41,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/HimanshuS04/Leetcode/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/HimanshuS04/Leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/HimanshuS04/Leetcode/tree/master/0089-gray-code) |
 | [0258-add-digits](https://github.com/HimanshuS04/Leetcode/tree/master/0258-add-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/HimanshuS04/Leetcode/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/HimanshuS04/Leetcode/tree/master/0089-gray-code) |
 | [0338-counting-bits](https://github.com/HimanshuS04/Leetcode/tree/master/0338-counting-bits) |
 ## Breadth-First Search
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/HimanshuS04/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/HimanshuS04/Leetcode/tree/master/0046-permutations) |
+| [0089-gray-code](https://github.com/HimanshuS04/Leetcode/tree/master/0089-gray-code) |
 ## Number Theory
 |  |
 | ------- |
