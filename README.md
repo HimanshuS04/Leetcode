@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/HimanshuS04/Leetcode/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/HimanshuS04/Leetcode/tree/master/0089-gray-code) |
 | [0338-counting-bits](https://github.com/HimanshuS04/Leetcode/tree/master/0338-counting-bits) |
+| [2478-longest-nice-subarray](https://github.com/HimanshuS04/Leetcode/tree/master/2478-longest-nice-subarray) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/HimanshuS04/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HimanshuS04/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HimanshuS04/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [2478-longest-nice-subarray](https://github.com/HimanshuS04/Leetcode/tree/master/2478-longest-nice-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HimanshuS04/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2478-longest-nice-subarray](https://github.com/HimanshuS04/Leetcode/tree/master/2478-longest-nice-subarray) |
 ## Simulation
 |  |
 | ------- |
