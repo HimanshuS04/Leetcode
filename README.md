@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/HimanshuS04/Leetcode/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/HimanshuS04/Leetcode/tree/master/0089-gray-code) |
+| [0191-number-of-1-bits](https://github.com/HimanshuS04/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/HimanshuS04/Leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/HimanshuS04/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [2478-longest-nice-subarray](https://github.com/HimanshuS04/Leetcode/tree/master/2478-longest-nice-subarray) |
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HimanshuS04/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/HimanshuS04/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
