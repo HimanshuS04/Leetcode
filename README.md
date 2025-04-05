@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/HimanshuS04/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/HimanshuS04/Leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/HimanshuS04/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0290-word-pattern](https://github.com/HimanshuS04/Leetcode/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HimanshuS04/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/HimanshuS04/Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HimanshuS04/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HimanshuS04/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/HimanshuS04/Leetcode/tree/master/0049-group-anagrams) |
+| [0290-word-pattern](https://github.com/HimanshuS04/Leetcode/tree/master/0290-word-pattern) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/HimanshuS04/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0389-find-the-difference](https://github.com/HimanshuS04/Leetcode/tree/master/0389-find-the-difference) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HimanshuS04/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
