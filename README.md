@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/HimanshuS04/Leetcode/tree/master/0089-gray-code) |
 | [0258-add-digits](https://github.com/HimanshuS04/Leetcode/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/HimanshuS04/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/HimanshuS04/Leetcode/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HimanshuS04/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Bit Manipulation
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/HimanshuS04/Leetcode/tree/master/0290-word-pattern) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/HimanshuS04/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0389-find-the-difference](https://github.com/HimanshuS04/Leetcode/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/HimanshuS04/Leetcode/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HimanshuS04/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/HimanshuS04/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [3447-clear-digits](https://github.com/HimanshuS04/Leetcode/tree/master/3447-clear-digits) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/HimanshuS04/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/HimanshuS04/Leetcode/tree/master/0412-fizz-buzz) |
 | [3447-clear-digits](https://github.com/HimanshuS04/Leetcode/tree/master/3447-clear-digits) |
 ## Two Pointers
 |  |
