@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/HimanshuS04/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/HimanshuS04/Leetcode/tree/master/0089-gray-code) |
 | [0258-add-digits](https://github.com/HimanshuS04/Leetcode/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/HimanshuS04/Leetcode/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/HimanshuS04/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/HimanshuS04/Leetcode/tree/master/0412-fizz-buzz) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HimanshuS04/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -176,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/HimanshuS04/Leetcode/tree/master/0191-number-of-1-bits) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/HimanshuS04/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/HimanshuS04/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
