@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/HimanshuS04/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/HimanshuS04/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/HimanshuS04/Leetcode/tree/master/0412-fizz-buzz) |
+| [0492-construct-the-rectangle](https://github.com/HimanshuS04/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HimanshuS04/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Bit Manipulation
 |  |
