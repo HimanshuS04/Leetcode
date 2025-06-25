@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HimanshuS04/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HimanshuS04/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/HimanshuS04/Leetcode/tree/master/0463-island-perimeter) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/HimanshuS04/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/HimanshuS04/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2478-longest-nice-subarray](https://github.com/HimanshuS04/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HimanshuS04/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HimanshuS04/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/HimanshuS04/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Backtracking
 |  |
 | ------- |
