@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HimanshuS04/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/HimanshuS04/Leetcode/tree/master/0463-island-perimeter) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/HimanshuS04/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0958-sort-array-by-parity-ii](https://github.com/HimanshuS04/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/HimanshuS04/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HimanshuS04/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2478-longest-nice-subarray](https://github.com/HimanshuS04/Leetcode/tree/master/2478-longest-nice-subarray) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/HimanshuS04/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/HimanshuS04/Leetcode/tree/master/0414-third-maximum-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HimanshuS04/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0958-sort-array-by-parity-ii](https://github.com/HimanshuS04/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/HimanshuS04/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/HimanshuS04/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HimanshuS04/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0958-sort-array-by-parity-ii](https://github.com/HimanshuS04/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1894-merge-strings-alternately](https://github.com/HimanshuS04/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HimanshuS04/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
