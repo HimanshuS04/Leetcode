@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/HimanshuS04/Leetcode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/HimanshuS04/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/HimanshuS04/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/HimanshuS04/Leetcode/tree/master/0049-group-anagrams) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/HimanshuS04/Leetcode/tree/master/0011-container-with-most-water) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/HimanshuS04/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Sorting
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/HimanshuS04/Leetcode/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/HimanshuS04/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/HimanshuS04/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HimanshuS04/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
