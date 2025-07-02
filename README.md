@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/HimanshuS04/Leetcode/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/HimanshuS04/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HimanshuS04/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/HimanshuS04/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/HimanshuS04/Leetcode/tree/master/0463-island-perimeter) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/HimanshuS04/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0958-sort-array-by-parity-ii](https://github.com/HimanshuS04/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/HimanshuS04/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/HimanshuS04/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/HimanshuS04/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HimanshuS04/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
