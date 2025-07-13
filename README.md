@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/HimanshuS04/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1791-richest-customer-wealth](https://github.com/HimanshuS04/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/HimanshuS04/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2048-build-array-from-permutation](https://github.com/HimanshuS04/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HimanshuS04/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2478-longest-nice-subarray](https://github.com/HimanshuS04/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/HimanshuS04/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/HimanshuS04/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/HimanshuS04/Leetcode/tree/master/0412-fizz-buzz) |
+| [2048-build-array-from-permutation](https://github.com/HimanshuS04/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/HimanshuS04/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3447-clear-digits](https://github.com/HimanshuS04/Leetcode/tree/master/3447-clear-digits) |
 ## Two Pointers
